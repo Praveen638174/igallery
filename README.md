@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:27-12-24
+## Date:8-05-2025
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -161,28 +161,28 @@ Publish the website in the given URL.
 
 <div class="gallery">
     <div class="gallery-item" onclick="showAlert('Image 1 clicked!')">
-        <img src="c:/Users/admin/Downloads/image1.jpg" alt="Image 1">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-03-03 144828.png" alt="Image 1">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 2 clicked!')">
-        <img src="c:\Users\admin\Downloads\image 2.jpg" alt="Image 2">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-03-20 160203.png" alt="Image 2">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 3 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 3.jpg" alt="Image 3">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-05-03 091031.png"alt="Image 3">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 4 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 4.jpg" alt="Image 4">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-05-04 202852.png"alt="Image 4">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 5 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 5.jpg" alt="Image 5">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-05-04 222818.png" alt="Image 5">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 6 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 6.jpg" alt="Image 6">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-03-03 141644.png" alt="Image 6">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 7 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 7.jpg" alt="Image 7">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot (29).png"alt="Image 7">
     </div>
     <div class="gallery-item" onclick="showAlert('Image 8 clicked!')">
-        <img src="c:/Users/admin/Downloads/image 8.jpeg" alt="Image 8">
+        <img src="C:\Users\PRAVEEN RAJ G\Pictures\Screenshots\Screenshot 2025-04-22 110727.png"alt="Image 8">
     </div>
 </div>
 
@@ -192,7 +192,7 @@ Publish the website in the given URL.
 </div>
 
 <div class="footer">
-    <p><b>Designed by Praveena Ashok (24006885)</b></p>
+    <p><b>Designed by Praveen Raj G (212224040245)</b></p>
 </div>
 
 <script>
@@ -223,8 +223,7 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-27 223032.png>)
-![alt text](<Screenshot 2024-12-27 223045.png>)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
