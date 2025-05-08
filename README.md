@@ -224,6 +224,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
+![Screenshot 2025-05-08 153841](https://github.com/user-attachments/assets/078da197-baee-4c09-927c-07afa7b40634)
+
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
